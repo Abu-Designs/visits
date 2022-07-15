@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_219" data-name="Ellipse 219" cx="35" cy="35" r="35" transform="translate(-0.161 -0.161)" fill="#cbc3ca" stroke="#d6e0ec" stroke-width="3"/>
+    </clipPath>
+  </defs>
+  <g id="Group_8000" data-name="Group 8000" transform="translate(-1264 -442)">
+    <circle id="Ellipse_218" data-name="Ellipse 218" cx="36" cy="36" r="36" transform="translate(1264 442)" fill="#fff"/>
+    <path id="Ellipse_218_-_Outline" data-name="Ellipse 218 - Outline" d="M36,1.742a34.09,34.09,0,0,0-19.153,5.85A34.363,34.363,0,0,0,4.433,22.666,34.211,34.211,0,0,0,7.592,55.153,34.363,34.363,0,0,0,22.666,67.567a34.211,34.211,0,0,0,32.487-3.158A34.363,34.363,0,0,0,67.567,49.334a34.211,34.211,0,0,0-3.158-32.487A34.363,34.363,0,0,0,49.334,4.433,34.042,34.042,0,0,0,36,1.742M36,0A36,36,0,1,1,0,36,36,36,0,0,1,36,0Z" transform="translate(1264 442)" fill="#cbc3ca"/>
+    <g id="Mask_Group_13" data-name="Mask Group 13" transform="translate(1265.161 443.161)" clip-path="url(#clip-path)">
+      <g id="user-avatar-svgrepo-com" transform="translate(6.532 12.746)">
+        <g id="Group_7857" data-name="Group 7857" transform="translate(0 0)">
+          <g id="Group_7856" data-name="Group 7856">
+            <path id="Path_9922" data-name="Path 9922" d="M46.833,42.806l-9.088-2.27-.773-3.093a16.357,16.357,0,0,0,4.592-9.109,3.562,3.562,0,0,0,2.571-2.984l.593-4.744a3.551,3.551,0,0,0-2.27-3.765l.218-4.467.887-.887c1.336-1.423,2.443-3.859.128-7.392C41.911,1.378,38.889,0,34.707,0a15.649,15.649,0,0,0-8.993,2.377c-10.108.211-11.481,4.9-11.481,9.484,0,1.065.259,3.463.429,4.91a3.533,3.533,0,0,0-1.594,1.037,3.57,3.57,0,0,0-.863,2.8l.593,4.744A3.567,3.567,0,0,0,15.649,28.4a16.483,16.483,0,0,0,4.362,8.829l-.826,3.307L10.1,42.808A13.311,13.311,0,0,0,0,55.746a1.187,1.187,0,0,0,1.186,1.186h54.56a1.191,1.191,0,0,0,1.186-1.191A13.315,13.315,0,0,0,46.833,42.806Z" transform="translate(0 0)" fill="#cbc3ca"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

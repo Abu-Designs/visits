@@ -1,6 +1,8 @@
 .app-sidebar .logo-img img{
     width: 42px;
 }
+
+
 .body-bg{
     background-image: url(../img/Image\ 30.png)
  
@@ -66,9 +68,9 @@ a:focus {
 }
 .btn-outline-secondary {
     color: #250221;
-    border-color: #250221;
-    padding-left: 40px;
-    padding-right: 40px;
+    border-color: #a392a1;
+    padding-left: 30px;
+    padding-right: 30px;
    
 }
 .btn-outline-secondary:hover {
@@ -382,3 +384,15 @@ body[data-menu='vertical-menu'] .app-sidebar .navigation li.active > a:before {
               }
             
            }
+           .btn-outline-primary:hover {
+            color: #fff !important;
+            background-color: #7b2222 !important;
+        }
+        .custom-select{
+            background-color: #fff;
+        }
+        .btn-outline-secondary:not(:disabled):not(.disabled):active, .btn-outline-secondary:not(:disabled):not(.disabled).active, .show > .btn-outline-secondary.dropdown-toggle {
+            color: #fff;
+            border-color: #a392a1 !important;
+            background-color: #a392a1 !important;
+        }

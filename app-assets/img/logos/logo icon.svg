@@ -1,6 +1,8 @@
-<svg id="logo_icon" data-name="logo icon" xmlns="http://www.w3.org/2000/svg" width="66.555" height="56.964" viewBox="0 0 66.555 56.964">
-  <rect id="Rectangle_4245" data-name="Rectangle 4245" width="16.541" height="16.541" transform="translate(21.582 45.268) rotate(-45)" fill="#fff"/>
-  <rect id="Rectangle_4246" data-name="Rectangle 4246" width="16.54" height="16.54" rx="8.27" transform="translate(21.583 11.696) rotate(-45)" fill="#fff"/>
-  <rect id="Rectangle_4247" data-name="Rectangle 4247" width="23.53" height="23.531" transform="translate(0 28.48) rotate(-44.997)" fill="#fff"/>
-  <rect id="Rectangle_4248" data-name="Rectangle 4248" width="23.531" height="23.531" transform="matrix(0.707, -0.707, 0.707, 0.707, 33.277, 28.483)" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="115.359" height="98.736" viewBox="0 0 115.359 98.736">
+  <g id="logo_icon" data-name="logo icon" transform="translate(0 0)">
+    <rect id="Rectangle_4245" data-name="Rectangle 4245" width="28.67" height="28.67" transform="translate(57.679 98.736) rotate(-135)" fill="#fff"/>
+    <rect id="Rectangle_4246" data-name="Rectangle 4246" width="28.669" height="28.669" rx="14.334" transform="translate(57.678 40.544) rotate(-135)" fill="#fff"/>
+    <rect id="Rectangle_4247" data-name="Rectangle 4247" width="40.784" height="40.786" transform="translate(86.521 78.207) rotate(-135.003)" fill="#fff"/>
+    <rect id="Rectangle_4248" data-name="Rectangle 4248" width="40.786" height="40.786" rx="20.393" transform="translate(28.839 78.208) rotate(-134.997)" fill="#fff"/>
+  </g>
 </svg>
